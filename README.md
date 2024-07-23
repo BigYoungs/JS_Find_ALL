@@ -85,4 +85,6 @@ JS_Find_ALL 本软件，通过[爱发电BigYoung商铺]([https://ifdian.net/a/bi
 
 ## 下载地址&获取最新版
 
-[https://ifdian.net/a/bigyoung?tab=shop](https://ifdian.net/a/bigyoung?tab=shop) 页面，搜“JS_Find_ALL”。
+**主要链接：**[https://ifdian.net/a/bigyoung?tab=shop](https://ifdian.net/a/bigyoung?tab=shop) 页面，搜“JS_Find_ALL”。
+
+**备用链接：**[https://mbd.pub/o/bread/mbd-ZpiblJdu](https://mbd.pub/o/bread/mbd-ZpiblJdu)
