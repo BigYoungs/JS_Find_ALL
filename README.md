@@ -60,7 +60,7 @@ A：文件中都是js链接时，需要使用`-j 1`参数，否则无法正常�
 
 如有其他问题，请在以下链接内进行反馈。
 
-[https://ifdian.net/group/37beff8aadd211ee90945254001e7c00](https://ifdian.net/group/37beff8aadd211ee90945254001e7c00)
+[https://afdian.com/group/37beff8aadd211ee90945254001e7c00](https://afdian.com/group/37beff8aadd211ee90945254001e7c00)
 
 ## 版本记录：
 
@@ -81,10 +81,10 @@ JS_Find_ALL 仅供安全自测、获得合法授权的测试，以及代码学�
 
 ## 版权声明
 
-JS_Find_ALL 本软件，通过[爱发电BigYoung商铺]([https://ifdian.net/a/bigyoung?tab=shop](https://ifdian.net/a/bigyoung?tab=shop))购买后，有权进行个人使用以及二开，禁止公开发布和用于商业用途，否则BigYoung有权追究法律责任。
+JS_Find_ALL 本软件，通过[爱发电BigYoung商铺]([https://afdian.com/a/bigyoung?tab=shop](https://afdian.com/a/bigyoung?tab=shop))购买后，有权进行个人使用以及二开，禁止公开发布和用于商业用途，否则BigYoung有权追究法律责任。
 
 ## 下载地址&获取最新版
 
-**主要链接：**[https://ifdian.net/a/bigyoung?tab=shop](https://ifdian.net/a/bigyoung?tab=shop) 页面，搜“JS_Find_ALL”。
+**主要链接：**[https://afdian.com/a/bigyoung?tab=shop](https://afdian.com/a/bigyoung?tab=shop) 页面，搜“JS_Find_ALL”。
 
 **备用链接：**[https://mbd.pub/o/bread/mbd-ZpiblJdu](https://mbd.pub/o/bread/mbd-ZpiblJdu)
